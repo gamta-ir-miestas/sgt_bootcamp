@@ -1,0 +1,343 @@
+1. Šis statybos techninis reglamentas (toliau – Reglamentas) nustato vandenruošos sistemų (vandens ėmyklų ir vandens ruošyklų) esminius reikalavimus [7.2.2] bei šių sistemų saugos ir paskirties reikalavimus [7.2.2].
+
+
+2. Reglamento nustatyti vandenruošos sistemų esminiai reikalavimai taikomi geriamojo vandens ruošimo sistemoms.
+
+
+3. Reglamentas nenustato esminių reikalavimų bei saugos ir paskirties reikalavimų:
+
+
+3.1. pastato vandentiekio inžinerinėms sistemoms;
+
+
+3.2. lauko vandentiekio inžineriniams tinklams;
+
+
+3.3. reikalavimų pastato karšto vandentiekio inžinerinėms sistemoms.
+
+
+4. Reglamentas taip pat nenustato vandens, skirto specialioms gamybinėms reikmėms (aušinimui, technologiniams procesams) ruošimo saugos ir paskirties reikalavimų.
+
+
+5. Reglamentas privalomas visiems statybos dalyviams, viešojo administravimo subjektams, inžinerinių tinklų bei susisiekimo komunikacijų savininkams (ar naudotojams), kitiems juridiniams ir fiziniams asmenims, susijusiems su šia veikla [7.2.2], [7.2.11].
+
+
+6. Paryškinu šriftu atspausdintos esminės Reglamento nuostatos. Nepriklausomai nuo šrifto formos visos Reglamento nuostatos yra privalomos.
+
+ 
+
+
+II SKYRIUS. NUORODOS
+
+ 
+
+
+7. Reglamento nuostatų teisės šaltiniai yra šie teisės aktai:
+
+
+7.1. Europos Sąjungos direktyvos:
+
+
+7.1.1. Tarybos Direktyva dėl paviršinio vandens, skirto geriamam vandeniui ruošti, kokybės valstybėse narėse 75/440/EEB 1975 m. birželio 16 d.;
+
+
+7.1.2. Tarybos Direktyva dėl požeminio vandens apsaugos nuo tam tikrų pavojingų medžiagų keliamos taršos 80/68/EEB 1979 m. gruodžio 17 d.;
+
+
+7.1.3. Tarybos Direktyva dėl žmonėms skirto vandens kokybės 98/83/EB 1998 m. lapkričio 3 d.;
+
+
+7.2. Lietuvos Respublikos įstatymai:
+
+
+7.2.1. Lietuvos Respublikos Civilinis kodeksas (Žin., 2000, Nr. 74-2262);
+
+
+7.2.2. Lietuvos Respublikos statybos įstatymas (Žin., 1996, Nr. 32-788; 2001, Nr. 101-3597; 2002, Nr. 73-3093, Nr. 124-5625);
+
+
+7.2.3. Lietuvos Respublikos vandens įstatymo pakeitimo įstatymas (Žin., 2003, Nr. 36-1544);
+
+
+7.2.4. Lietuvos Respublikos geriamojo vandens įstatymas (Žin., 2001, Nr. 64-2327);
+
+
+7.3. Statybos techniniai reglamentai:
+
+
+7.3.1. STR 2.01.01(1):1999 „Esminiai statinio reikalavimai. Mechaninis patvarumas ir pastovumas (Žin., 1999, Nr. 112-3260);
+
+
+7.3.2. STR 2.01.01(2):1999 „Esminiai statinio reikalavimai. Gaisrinė sauga“ (Žin., 2000, Nr. 17-424; 2002, Nr. 96-4233);
+
+
+7.3.3. STR 2.01.01(3):1999 „Esminiai statinio reikalavimai „Higiena, sveikata, aplinkos apsauga“ (Žin., 2000, Nr. 8-215; 2002, Nr. 106-4776);
+
+
+7.3.4. STR 2.01.01(4):1999 „Esminiai statinio reikalavimai. Naudojimo sauga“ (Žin., 2000, Nr. 8-216; 2002, Nr. 96-4232);
+
+
+7.3.5. STR 2.01.01(5):1999 „Esminiai statinio reikalavimai. Apsauga nuo triukšmo“ (Žin., 2000, Nr. 8-216; 2002, Nr. 96-4232);
+
+
+7.3.6. STR 2.01.01(6):1999 „Esminiai statinio reikalavimai. Energijos taupymas ir šilumos išsaugojimas“ (Žin., 1999, Nr. 107-3120; 2002, Nr. 98-4343);
+
+
+7.3.7. STR 1.01.05: 2000 „Normatyviniai statybos techniniai dokumentai“ (Žin., 2002, Nr. 42-1586; 2003, Nr. 51-2295; 2004, Nr. 25-780);
+
+
+7.3.8. STR 1.01.09:2003 „Statinių klasifikavimas pagal jų naudojimo paskirtį“ (Žin., 2003, Nr. 58-2611);
+
+
+7.3.9. STR 2.01.04:2004 „Gaisrinė sauga. Pagrindiniai reikalavimai“ (Žin., 2004, Nr. 23-720);
+
+
+7.3.10. STR 2.05.03(1):2003 „Statybinių konstrukcijų projektavimo pagrindai“(Žin., 2003, Nr. 59-2682);
+
+
+7.3.11. STR 2.05.04:2003 „Poveikiai ir apkrovos“ (Žin., 2003, Nr. 59-2683);
+
+
+7.4. Higienos normos:
+
+
+7.4.1. HN 44:2003 „Vandenviečių sanitarinių apsaugos zonų nustatymas ir priežiūra“ (Žin., 2003, Nr. 42-1957);
+
+
+7.4.2. HN 24:2003 „Geriamojo vandens saugos ir kokybės reikalavimai“ (Žin., 2003, Nr. 79-3606);
+
+
+7.4.3. HN 92: 1999 „Paplūdimiai ir jų maudyklos“ (Žin., 1999, Nr. 58-1907);
+
+
+7.4.4. HN 23:2001 „Kenksmingų cheminių medžiagų koncentracijų ribinės vertės darbo aplinkos ore. Bendrieji reikalavimai“ (Žin., 2001, Nr. 110-4008);
+
+
+7.4.5. HN 28:2001 „Natūralus mineralinis vanduo, šaltinio vanduo ir mineralizuotas geriamasis vanduo. Kokybės reikalavimai ir programinė priežiūra“ (Žin., 2002, Nr. 5-198);
+
+
+7.4.6. HN 33:2001 „Akustinis triukšmas. Leidžiami lygiai gyvenamojoje ir darbo aplinkoje. Matavimo metodikos bendrieji reikalavimai“ (Žin., 2002, Nr. 8-301, Nr. 59-2401);
+
+
+7.4.7. HN 35:2002 „Gyvenamosios aplinkos orą teršiančių medžiagų koncentracijų ribinės vertės“ (Žin., 2002, Nr. 105-4726);
+
+
+7.4.8. HN 48:2001 „Žmogaus vartojamo žalio vandens kokybės higieniniai reikalavimai“ (Žin., 2001, Nr. 104-3719);
+
+
+7.4.9. HN 73:2001 „Pagrindinės radiacinės saugos normos“ (Žin., 2002, Nr. 11-388);
+
+
+7.5. Statybos normos (prilygintos statybos techniniams reglamentams):
+
+
+7.5.1. RSN 139-92 „Pastatų ir statinių žaibosauga“;
+
+
+7.5.2. RSN 156-94 „Statybinė klimatologija“ (Žin., 1994, Nr. 27-394, 2000, Nr. 96-423);
+
+
+7.6. Kiti normatyviniai dokumentai:
+
+
+7.6.1. Gręžinių vandeniui tiekti ir vandens šiluminei energijai naudoti projektavimo, įrengimo, konservavimo bei likvidavimo tvarka LAND 4-99 (Žin., 1999, Nr. 112-3263);
+
+
+7.7. Standartai:
+
+
+7.7.1. LST EN 1508:2000 „Vandentieka. Vandens laikymo sistemos ir jų dalys. Reikalavimai“.
+
+
+7.7.2. LST 1426:1996 „Vandens savybės. Terminai ir apibrėžimai“;
+
+
+7.7.3. LST EN 752-1: 2003. „Lauko nuotakynas. 1 dalis. Bendrosios nuostatos“.
+
+
+7.8. Įsakymai:
+
+
+7.8.1. Biocidų autorizacijos ir registracijos nuostatai, patvirtinti Lietuvos Respublikos sveikatos apsaugos ministro 2002 m. liepos 8 d. įsakymu Nr. 358 (Žin., 2002, Nr. 79-3361, Nr. 102-4583);
+
+
+7.8.2. Biocidų autorizacijos ir registracijos taisyklės, patvirtintos Lietuvos Respublikos sveikatos apsaugos ministro 2002 m. rugpjūčio 14 d. įsakymu Nr. 421 (Žin., 2002, Nr. 87-3760).
+
+ 
+
+
+III SKYRIUS. PAGRINDINĖS SĄVOKOS
+
+ 
+
+
+8. Šiame skyriuje pateikiamos tik tos Reglamente vartojamos sąvokos, kurios neapibrėžtos Lietuvos Respublikos statybos įstatyme bei Reglamento nuorodų skyriaus 7.3.1–7.3.11 punktuose įvardintuose statybos techniniuose reglamentuose. Kitos Reglamente vartojamos pagrindinės sąvokos pateikiamos suskirstant jas pagal sąvokų apibrėžimus vienijančias prasmines grupes.
+
+
+9. Esminiai statinio (jo dalies) reikalavimai:
+
+konstrukcijų kritinė ribinė būklė [7.3.1] – įvairių konstrukcijų suirimas ar jam artima būklė.
+
+
+9.1. Kritinei būklei taip pat priskiriama:
+
+
+9.1.1. nepažeistos konstrukcijos ar bet kurios jos dalies laikančiųjų konstrukcijų griūtis;
+
+
+9.1.2. griūtis dėl didelių deformacijų ar sėdimų;
+
+
+9.1.3. konstrukcinės sistemos virtimas mechanizmu;
+
+
+9.1.4. staigi konstrukcijos griūtis;
+
+
+9.1.5. konstrukcijos ar bet kurios jos dalies, įskaitant atramas ir pamatus, stabilumo netekimas;
+
+
+9.2. konstrukcijų eksploatacinė (naudojimo) ribinė būklė [7.3.1] – konstrukcijos būklė, kai dėl specifinių kriterijų tolesnė konstrukcijų eksploatacija (naudojimas) ar funkcionavimas yra neįmanomas. Ši būklė tai:
+
+• neleistinos deformacijos ar poslinkiai, kurie trukdo normaliai statinio eksploatacijai (naudojimui) arba sukelia apdailos ar nelaikančiųjų elementų pažeidimus;
+
+• neleistinos vibracijos, kurios sukelia diskomfortą žmonėms arba pavojų statiniams ar juose esantiems įrenginiams arba riboja jų funkcionalumą;
+
+• neleistinas supleišėjimas.
+
+
+10. Vandens ėmimas, vandens ruošimas:
+
+
+10.1. dirbtinės infiltracijos statiniai – statinių ir įrenginių kompleksas požeminio vandens ištekliams papildyti infiltracijos būdu;
+
+
+10.2. horizontalioji vandens ėmykla – požeminio vandens ėmykla, kurios vandens paėmimo dalis (drena) yra horizontali;
+
+
+10.3. gręžinys – gręžimo būdu įrengtas požeminis įrenginys, į kurį vanduo priteka per gręžinio sieneles (filtrą ar atvirą gręžskylę);
+
+
+10.4. gręžtinis šulinys – vertikalus gręžimo būdu įrengtas šulinys požeminiam vandeniui paimti;
+
+
+10.5. gręžinio likvidavimas – darbas, kurį atlikus gręžinys likviduojamas, užtikrinant požeminių vandens išteklių apsaugą nuo taršos;
+
+
+10.6. gėlas požeminis vanduo – Žemės plutos tuštumas užpildęs vanduo, kurį galima paimti ir kuriame ištirpusių druskų kiekis mažesnis nei 1 g/l;
+
+
+10.7. krantinis vandens imtuvas – upės pakrantėje pastatytas vandens paėmimo statinys;
+
+
+10.8. mažai laidus vandeniui sluoksnis – virš vandeningo sluoksnio arba po juo slūgsantis sluoksnis, kurio vandeningų uolienų filtracijos koeficientas K ≤ 10-2 – 10-3 m3/d;
+
+
+10.9. paviršinis vanduo – žemės paviršiumi tekantis arba žemės paviršiuje stovintis vanduo;
+
+
+10.10. požeminis vanduo – žemiau žemės paviršiaus (žemės gelmėse) esantis natūraliai susikaupęs ar dirbtinai infiltruotas vanduo, kurį galima paimti;
+
+
+10.11. spindulinė vandens ėmykla – vandens ėmykla požeminiam vandeniui paimti, susidedanti iš didelio skersmens šulinių (šachtų), kurių apatinėje dalyje spindulio kryptimi įrengiami horizontalūs filtriniai vamzdžiai;
+
+
+10.12. šachtinis šulinys – vertikalus 1,0–3,0 m skersmens kastinis arba gręžtinis šulinys gruntiniam vandeniui paimti;
+
+
+10.13. vandeningas sluoksnis – požeminį vandenį talpinantis sluoksnis;
+
+
+10.14. vandenspara – vandeniui nelaidus sluoksnis, slūgsantis virš vandeningo sluoksnio arba po juo, kai jį sudarančių uolienų filtracijos koeficientas K≤10-4m3/d;
+
+
+10.15. vandenvietė – žemės paviršiaus teritorija, užimanti požeminio vandens telkinio dalį, kurioje sutelkti požeminio vandens kaptažo ir kiti inžineriniai statiniai, pakėlimo ir perdavimo vartotojui statiniai ir įrenginiai, kuriais išgaunamas vanduo tiekiamas į vandentiekio sistemą;
+
+
+10.16. vaginė vandens ėmykla – vandens ėmykla, kurios vandens ėmimo angos įrengtos upės vagoje, o vandens surinkimo šulinys su siurbline pastatytas upės krante;
+
+
+10.17. vandens ėmykla – statinys vandeniui paimti iš paviršinių ir požeminių vandens šaltinių;
+
+
+10.18. vandentakis – vamzdynas, jungiantis vandens ėmyklą, ruošyklą, talpyklą ir vandentiekio tinklą;
+
+
+10.19. versmė – iš žemės ištekantis požeminis vanduo;
+
+
+10.20. versmių vandens ėmykla – vandens ėmykla versmių (kylančiųjų ir krintančiųjų) vandeniui paimti;
+
+
+10.21. aeratorius – vandens apdorojimo įrenginys, kuriuo ištirpinamas deguonis ir/arba pašalinamos lakiosios priemaišos;
+
+
+10.22. aeruotas vanduo – požeminis vanduo, kuriame ištirpinta deguonies;
+
+
+10.23. dribsniklis (flokuliantas) – stambių, lengvai atskiriamų nuo skysčio drumzlių susidarymas jungiantis smulkioms; joms jungtis paprastai padeda mechaninės, cheminės arba biologinės priemonės;
+
+
+10.24. filtro darbo ciklas – viena filtravimo užpildo darbo ir jo plovimo trukmė;
+
+
+10.25. geležies šalinimas – geležies koncentracijos vandenyje sumažinimas iki reikšmės, ne didesnės už nustatytą geriamojo vandens kokybės reglamentavimo dokumentuose;
+
+
+10.26. greitasis filtras – vandens ruošimo filtras su filtruojančiosios medžiagos užpildu, kuriame vandens filtravimosi greitis 2-15 m/h;
+
+
+10.27. kenksmingumo pašalinimas – kenksmingų priemaišų ir bakterijų pašalinimas iš vandens;
+
+
+10.28. krekiklis (koaguliantas) – reagentas, naudojamas skendos arba emulsijos pastovumui pažeisti;
+
+
+10.29. kontaktinis nusodintuvas – įrenginys, kuriame vanduo skaidrėja kontaktinės koaguliacijos principu;
+
+
+10.30. košimas – skendinčių medžiagų ir stambesnių koloidinių priemaišų šalinimas iš vandens, košiant jį pro filtruojantįjį sluoksnį;
+
+
+10.31. lėtasis filtras – vandens ruošimo filtras su filtruojančiosios medžiagos užpildu, kuriame vandens filtravimosi greitis iki 0,5 m/h;
+
+
+10.32. nusodintuvas – rezervuaras skendinčioms medžiagoms nusėsti. Dažnai jame įrengiami grandikliai nuosėdoms stumti rezervuaro dugnu į šalinimo vietą;
+
+
+10.33. plovimo vanduo – filtrų užpildams plauti naudotas vanduo;
+
+
+10.34. prefiltras – įrenginys vandeniui skaidrinti per užpildo sluoksnį, kai jo drumstumas ne didesnis kaip 250 mg/l, prieš tiekiant jį į lėtuosius filtrus;
+
+
+10.35. reakcijos kameros – įrenginiai, kuriais koaguliuotame vandenyje sudaromi dribsniai;
+
+
+10.36. technologiniai parametrai – būdingieji technologijos veiksniai, kurių reikšmės lemia vandens ruošimo įrenginių dydį ir eksploatavimo tvarką;
+
+
+10.37. geriamasis vandentiekis – vandentiekis, tiekiantis rūpinamoje teritorijoje esantiems vartotojams geriamąjį vandenį;
+
+
+10.38. vandens gėlinimas – ištirpusių druskų šalinimas iš vandens, kad jis tiktų gerti arba kam nors gaminti ar aušinti;
+
+
+10.39. vandens minkštinimas – kalcio ir magnio jonų šalinimas iš vandens;
+
+
+10.40. vandens spalvotumo panaikinimas – koloidinių ir skendinčių medžiagų pašalinimas iš vandens;
+
+
+10.41. vandens skaidrinimas – vandenyje skendinčių medžiagų kiekio ir drumzlinumo mažinimas;
+
+
+10.42. vandens ruošykla – įrenginių kompleksas, skirtas paruošti žalią vandenį iki geriamojo vandens kokybę reglamentuojančiuose dokumentuose nurodytų reikalavimų;
+
+
+10.43. vandens stabilizavimas – medžiagų, sukeliančių vamzdžių koroziją ir vamzdžių sienelių pasidengimą kalcio karbonatu, šalinimas iš vandens;
+
+
+11. technologiniai tyrinėjimai – natūralaus požeminio vandens apdorojimo, siekiančio pašalinti nepageidaujamas priemaišas vandenyje, būdų veiksmingumo tikrinimas, naudojant tam tikrą įrangą ir metodiką, kurio metu nustatomi seminiai technologiniai šalinimo įrenginių parametrai;
+
+ 
